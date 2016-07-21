@@ -2,7 +2,7 @@
 
 ## The latest build of TestDriven.Net 4.0-alpha is available here: http://testdriven.net/download.aspx
 
-### It includes support for .NET Core and Visual Studio "15" preview versons. It is "alpha" in the sense that it's feature incomplete, not that it will take your firstborn. :wink: Please give it a try and report and issues you find. I want to make it as useful as possible.
+### It includes support for .NET Core and Visual Studio "15" preview versons. It is "alpha" in the sense that it's feature incomplete, not that it will take your firstborn. :wink: Please give it a try and report any issues you find. I want to make it as useful as possible.
 
 ### You can read the release notes here: http://testdriven.net/downloads/releasenotes.html
 
