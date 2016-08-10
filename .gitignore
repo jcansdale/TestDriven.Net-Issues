@@ -1,0 +1,5 @@
+**/.vs/
+**/bin/Debug/
+**/obj/Debug/
+*.user
+*.lock.json
