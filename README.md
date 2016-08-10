@@ -1,4 +1,4 @@
-# TestDriven.Net
+# TestDriven.Net 4
 
 ## The latest build of TestDriven.Net 4.0-beta is available here: http://testdriven.net/download.aspx
 
