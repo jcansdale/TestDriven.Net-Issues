@@ -6,7 +6,17 @@
 
 ![Test With](images/testwith.png)
 
-### You can read the release notes here: http://testdriven.net/downloads/releasenotes.html
+project.json / .xproj support works as follows:
+
+- `'Run Test(s)'` and `'Test With > Debugger'` will run or debug using the first framework defined in `project.json`
+- `'Test With > .NET Core'` will run using the first defined .NET Core framework (e.g. `netcoreapp1.0`) 
+- `'Test With > .NET Framework'` will use the first non-Core framework defined in `project.json` (e.g. `net35` or `net451`)
+- If a `testRunner` is defined, .NET Core and .NET Framework tests will be executed using `dotnet-test-xunit` or `-nunit`.
+
+I've added some example .NET Core and multi-framework projects to this repo:
+https://github.com/jcansdale/TestDriven.Net-Issues/tree/master/ExampleProjects/xproj
+ 
+#### You can read the release notes here: http://testdriven.net/downloads/releasenotes.html
 
 I'm experimenting using this repository for public issue tracking. The rest of TestDriven.Net is managed inside a private repository, but unfortunately there isn't the option to make those issues public. I'm tracking a few issues here instead.
 
