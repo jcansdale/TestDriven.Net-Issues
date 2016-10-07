@@ -1,0 +1,41 @@
+ - [#54](https://github.com/jcansdale/TestDriven.Net-Issues/issues/54) - Label text sent to console when running multiple tests +enhancement
+ - [#53](https://github.com/jcansdale/TestDriven.Net-Issues/issues/53) - When running project.json tests, always target tests specified by `testRunner` +enhancement
+ - [#52](https://github.com/jcansdale/TestDriven.Net-Issues/issues/52) - Add support for new VSTestHost when executing 'Test With > In-Proc' +enhancement
+ - [#50](https://github.com/jcansdale/TestDriven.Net-Issues/issues/50) - CurrentDirectory not set for dotnet-test based test runners +fix
+ - [#49](https://github.com/jcansdale/TestDriven.Net-Issues/issues/49) - Alternative or newer coverage options?
+ - [#45](https://github.com/jcansdale/TestDriven.Net-Issues/issues/45) - Make `dotnet-test-nunit` output less verbose +enhancement
+ - [#44](https://github.com/jcansdale/TestDriven.Net-Issues/issues/44) - Remove `Go To Code/Test` command +enhancement
+ - [#43](https://github.com/jcansdale/TestDriven.Net-Issues/issues/43) - Can't test with xUnit or MSTest (TestDriven.NET-4.0.3359 Beta)
+ - [#41](https://github.com/jcansdale/TestDriven.Net-Issues/issues/41) - XUnit Unicode output munged in Output window
+ - [#40](https://github.com/jcansdale/TestDriven.Net-Issues/issues/40) - Add support for .NET Framework / .xproj based projects that use `ITestRunner` interface
+ - [#39](https://github.com/jcansdale/TestDriven.Net-Issues/issues/39) - .
+ - [#38](https://github.com/jcansdale/TestDriven.Net-Issues/issues/38) - Output directory isn't cleared which could cause wrong `dotnet-test-*` to be used
+ - [#37](https://github.com/jcansdale/TestDriven.Net-Issues/issues/37) - Look for DLLs in RID directory, not just EXEs
+ - [#36](https://github.com/jcansdale/TestDriven.Net-Issues/issues/36) - Add support for App.config when running .xproj / .NET Framework tests
+ - [#34](https://github.com/jcansdale/TestDriven.Net-Issues/issues/34) - Can't find .xproj assembly when project name is different to folder name
+ - [#33](https://github.com/jcansdale/TestDriven.Net-Issues/issues/33) - Skip .xproj / project.json style projects that don't contain any tests
+ - [#29](https://github.com/jcansdale/TestDriven.Net-Issues/issues/29) - Run using .NET Framework (and "quirks mode") that project.json is targeting +enhancement
+ - [#28](https://github.com/jcansdale/TestDriven.Net-Issues/issues/28) - Can't evaluate "Ad hoc" properties in NUnit test projects
+ - [#27](https://github.com/jcansdale/TestDriven.Net-Issues/issues/27) - Add support for targeting .NET Framework .xproj 'Library' projects
+ - [#26](https://github.com/jcansdale/TestDriven.Net-Issues/issues/26) - Add support for targeting xUnit .NET Core generic types
+ - [#25](https://github.com/jcansdale/TestDriven.Net-Issues/issues/25) - Exception was reported by .NET Core / .xproj test runner
+ - [#24](https://github.com/jcansdale/TestDriven.Net-Issues/issues/24) - Couldn't find .NET Core or.NET Framework assembly for 'project.json'
+ - [#23](https://github.com/jcansdale/TestDriven.Net-Issues/issues/23) - TestDriven.Net tries to run tests in .NET Core projects that don't contain tests
+ - [#22](https://github.com/jcansdale/TestDriven.Net-Issues/issues/22) - 'Test With > Performance' not working on Visual Studio 2013 Premium
+ - [#21](https://github.com/jcansdale/TestDriven.Net-Issues/issues/21) - Add 'Test With > .NET' and 'Test With > .NET Core' commands
+ - [#20](https://github.com/jcansdale/TestDriven.Net-Issues/issues/20) - Can't evaluate property as "Ad hoc" test in NUnit project
+ - [#18](https://github.com/jcansdale/TestDriven.Net-Issues/issues/18) - .NET Core test runner should honor the NUGET_PACKAGES environment variable
+ - [#14](https://github.com/jcansdale/TestDriven.Net-Issues/issues/14) - Add support for running "Ad hoc" test methods in .NET Core Class Library projects
+ - [#13](https://github.com/jcansdale/TestDriven.Net-Issues/issues/13) - Can't execute all tests in project if properties window is open
+ - [#12](https://github.com/jcansdale/TestDriven.Net-Issues/issues/12) - Add support for running nested classes when a parent class is targeted
+ - [#11](https://github.com/jcansdale/TestDriven.Net-Issues/issues/11) - Can't target tests in .NET Core nested types
+ - [#10](https://github.com/jcansdale/TestDriven.Net-Issues/issues/10) - Add support for .NET Core debugging
+ - [#9](https://github.com/jcansdale/TestDriven.Net-Issues/issues/9) - Failed to attach .NET Core debugger
+ - [#8](https://github.com/jcansdale/TestDriven.Net-Issues/issues/8) - Allow .NET Core test runner projects to test themselves
+ - [#7](https://github.com/jcansdale/TestDriven.Net-Issues/issues/7) - Can't resolve some assemblies when targeting .NET Core 'Class Library' projects
+ - [#6](https://github.com/jcansdale/TestDriven.Net-Issues/issues/6) - Add support for running NUnit tests using .NET Core
+ - [#5](https://github.com/jcansdale/TestDriven.Net-Issues/issues/5) - Add support for running xUnit tests using .NET Core
+ - [#3](https://github.com/jcansdale/TestDriven.Net-Issues/issues/3) - Add support for .NET Core testing
+ - [#2](https://github.com/jcansdale/TestDriven.Net-Issues/issues/2) - x
+
+Commits: 990b9b7bc1...aec5a0e2b2
