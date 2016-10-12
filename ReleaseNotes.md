@@ -3,11 +3,11 @@
 ### [TDI59](https://github.com/jcansdale/TestDriven.Net-Issues/issues/59): Add support for running "Ad hoc" async methods
 Async methods can be targeted directly and the "Ad hoc" runner will wait for them to complete (the async method mustn't return void).
 
-### [TDI54](https://github.com/jcansdale/TestDriven.Net-Issues/issues/54): Label text sent to console when running multiple tests
-When running all tests in a project/solution, any console/trace output will be labeled with the name of the test that output it.
-
 ### [TDI60](https://github.com/jcansdale/TestDriven.Net-Issues/issues/60): Develop library for testing classes that call static methods
 This version of TestDriven.Net was tested using [StaticMocks](https://jcansdale.github.io/StaticMocks), a helper library for mocking static methods. If you're interested, you can find it [here](https://jcansdale.github.io/StaticMocks).
+
+### [TDI54](https://github.com/jcansdale/TestDriven.Net-Issues/issues/54): Label text sent to console when running multiple tests
+When running all tests in a project/solution, any console/trace output will be labeled with the name of the test that output it.
 
 ### [TDI17](https://github.com/jcansdale/TestDriven.Net-Issues/issues/17): Automatically pass DTE object to "Ad hoc" test methods that take DTE as a parameter
 The 'Test With > In-Proc' command will pass the current `DTE` (Visual Studio) object to "Ad hoc" test methods that take `DTE` (or `DTE2`) as a parameter.
