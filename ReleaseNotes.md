@@ -1,5 +1,3 @@
-## [TestDriven.NET](http://testdriven.net) 4.0 Beta 2
-
 ### [TDI59](https://github.com/jcansdale/TestDriven.Net-Issues/issues/59): Add support for running "Ad hoc" async methods
 Async methods can be targeted directly and the "Ad hoc" runner will wait for them to complete (the async method mustn't return void).
 
@@ -8,6 +6,9 @@ This version of TestDriven.Net was tested using [StaticMocks](https://jcansdale.
 
 ### [TDI54](https://github.com/jcansdale/TestDriven.Net-Issues/issues/54): Label text sent to console when running multiple tests
 When running all tests in a project/solution, any console/trace output will be labeled with the name of the test that output it.
+
+### [TDI63](https://github.com/jcansdale/TestDriven.Net-Issues/issues/63): Testing .NET Core project might fail with: "MyTests.exe isn't a .NET assembly"
+When a "runtimes" element was defined in a .NET Core project, it was attempting to execute the native EXE shim rather than the target assembly DLL.
 
 ### [TDI17](https://github.com/jcansdale/TestDriven.Net-Issues/issues/17): Automatically pass DTE object to "Ad hoc" test methods that take DTE as a parameter
 The 'Test With > In-Proc' command will pass the current `DTE` (Visual Studio) object to "Ad hoc" test methods that take `DTE` (or `DTE2`) as a parameter.
