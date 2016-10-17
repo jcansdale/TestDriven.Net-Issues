@@ -1,4 +1,4 @@
-## Release Notes - [TestDriven.Net](http://testdriven.net) 4.0 Beta 2
+## Release Notes - [TestDriven.Net](http://testdriven.net) 4.0 Beta 2 ([download](http://testdriven.net/download.aspx))
 
 ### [TDI59](https://github.com/jcansdale/TestDriven.Net-Issues/issues/59): Add support for running "Ad hoc" async methods
 Async methods can be targeted directly and the "Ad hoc" runner will wait for them to complete (the async method mustn't return void).
