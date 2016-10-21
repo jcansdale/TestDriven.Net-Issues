@@ -1,6 +1,8 @@
 # TestDriven.Net 4
 
-## The latest build of TestDriven.Net 4.0-beta is available here: http://testdriven.net/download.aspx
+## The latest build of TestDriven.Net 4.0-beta2 is available: http://testdriven.net/download.aspx
+
+### You can read the release notes here: https://github.com/jcansdale/TestDriven.Net-Issues/blob/master/ReleaseNotes.md
 
 ### It includes support for .NET Core and Visual Studio "15" preview versons.
 
@@ -16,8 +18,6 @@ project.json / .xproj support works as follows:
 I've added some example .NET Core and multi-framework projects to this repo:
 https://github.com/jcansdale/TestDriven.Net-Issues/tree/master/ExampleProjects/xproj
  
-#### You can read the release notes here: http://testdriven.net/downloads/releasenotes.html
-
 I'm experimenting using this repository for public issue tracking. The rest of TestDriven.Net is managed inside a private repository, but unfortunately there isn't the option to make those issues public. I'm tracking a few issues here instead.
 
 Feel free to add [issues](https://twitter.com/jcansdale), feature [suggestions](https://twitter.com/jcansdale) or tweet me!
