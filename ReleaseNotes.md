@@ -1,3 +1,21 @@
+## Release Notes - [TestDriven.Net](http://testdriven.net) 4.0 Beta 3 ([download](http://testdriven.net/download.aspx))
+
+### [TDI76](https://github.com/jcansdale/TestDriven.Net-Issues/issues/76): Add support for Visual Studio 2017 RC
+TestDriven.Net will be installed for Visual Studio 2017 RC (Community, Professional and Enterprise in their default locations).
+
+### [TDI77](https://github.com/jcansdale/TestDriven.Net-Issues/issues/77): Setup prompts to download .NET 3.5 on Windows 10
+Installer (setup.exe) is now built using .NET 4.0 so that is can be installed on a clean installation without .NET 2.0/3.5.
+
+### [TDI72](https://github.com/jcansdale/TestDriven.Net-Issues/issues/72): Can you put the .csproj context menu buttons back below "build" like in VS2012?
+Project context menu buttons are now placed in consistent locations.
+
+### [TDI65](https://github.com/jcansdale/TestDriven.Net-Issues/issues/65): Update for NUnit 3.5
+Update installer to include latest version of NUnit.
+
+### [TDI71](https://github.com/jcansdale/TestDriven.Net-Issues/issues/71): Test With > NUnit not working in 4.0 Beta 2
+Restore option to test using the old NUnit 2.5.10 GUI from project context menu.
+
+
 ## Release Notes - [TestDriven.Net](http://testdriven.net) 4.0 Beta 2 ([download](http://testdriven.net/download.aspx))
 
 ### [TDI59](https://github.com/jcansdale/TestDriven.Net-Issues/issues/59): Add support for running "Ad hoc" async methods
