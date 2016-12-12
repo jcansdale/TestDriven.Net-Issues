@@ -1,4 +1,4 @@
-## Release Notes - [TestDriven.Net](http://testdriven.net) 4.0 Beta 3 ([download](http://testdriven.net/download.aspx))
+## [TestDriven.Net](http://testdriven.net) 4.0 Beta 3 ([download](http://testdriven.net/download.aspx))
 
 ### [TDI76](https://github.com/jcansdale/TestDriven.Net-Issues/issues/76): Add support for Visual Studio 2017 RC
 TestDriven.Net will be installed for Visual Studio 2017 RC (Community, Professional and Enterprise in their default locations).
@@ -16,7 +16,7 @@ Update installer to include latest version of NUnit.
 Restore option to test using the old NUnit 2.5.10 GUI from project context menu.
 
 
-## Release Notes - [TestDriven.Net](http://testdriven.net) 4.0 Beta 2 ([download](http://testdriven.net/download.aspx))
+## [TestDriven.Net](http://testdriven.net) 4.0 Beta 2 ([download](http://testdriven.net/download.aspx))
 
 ### [TDI59](https://github.com/jcansdale/TestDriven.Net-Issues/issues/59): Add support for running "Ad hoc" async methods
 Async methods can be targeted directly and the "Ad hoc" runner will wait for them to complete (the async method mustn't return void).
