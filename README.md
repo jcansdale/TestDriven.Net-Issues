@@ -2,7 +2,7 @@
 
 ## The latest build of TestDriven.Net 4.0-beta3 is available: http://testdriven.net/download.aspx - [release notes](https://github.com/jcansdale/TestDriven.Net-Issues/blob/master/ReleaseNotes.md)
 
-### It includes support for .NET Core and Visual Studio "15" preview versons.
+### It includes support for .NET Core 1.0 and Visual Studio 2017 RC versons.
 
 ![Test With](images/testwith.png)
 
