@@ -9,6 +9,9 @@ Installer (setup.exe) is now built using .NET 4.0 so that is can be installed on
 ### [TDI80](https://github.com/jcansdale/TestDriven.Net-Issues/issues/80): TestDriven.Net doesn't work on a 32-bit OS in Visual Studio 2015+
 Fixed issue where TestDriven.Net couldn't find its home directory when running on a 32-bit version of Windows.
 
+### [TDI83](https://github.com/jcansdale/TestDriven.Net-Issues/issues/83): Test With > NCover doesn't work when .NET 2.0/3.5 isn't installed
+Allow NCover/NCoverExplorer to run when just .NET 4.x is installed.
+
 ### [TDI72](https://github.com/jcansdale/TestDriven.Net-Issues/issues/72): Can you put the .csproj context menu buttons back below "build" like in VS2012?
 Project context menu buttons are now placed in consistent locations.
 
