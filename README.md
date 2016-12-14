@@ -16,7 +16,7 @@ project.json / .xproj support works as follows:
 I've added some example .NET Core and multi-framework projects to this repo:
 https://github.com/jcansdale/TestDriven.Net-Issues/tree/master/ExampleProjects/xproj
  
-I'm experimenting using this repository for public issue tracking. The rest of TestDriven.Net is managed inside a private repository, but unfortunately there isn't the option to make those issues public. I'm tracking a few issues here instead.
+I'm using this repository for issue tracking.
 
 Feel free to add [issues](https://twitter.com/jcansdale), feature [suggestions](https://twitter.com/jcansdale) or tweet me!
 
