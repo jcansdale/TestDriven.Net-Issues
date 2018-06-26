@@ -1,4 +1,4 @@
-# [TestDriven.Net](http://testdriven.net) 4.3 Beta ([download](http://testdriven.net/download.aspx))
+# [TestDriven.Net](http://testdriven.net) 4.3 Beta
 
 ## Enhancements
 - #98 Allow .NET Standard ad-hoc methods to be executed using .NET Framework
@@ -13,22 +13,22 @@
 - #113 Windows Defender started flagging installer
 - #110 [STAThread] async Task hangs when executed with Test With > In-Proc (VS SDK)
 
-### [TestDriven.Net](http://testdriven.net) 4.2 Beta ([download](http://testdriven.net/download.aspx))
+# [TestDriven.Net](http://testdriven.net) 4.2 Beta
            
 - [TDI105](https://github.com/jcansdale/TestDriven.Net-Issues/issues/105): Add support for Visual Studio 2017 Preview Editions
 Preview versions can be installed side by side with regular versions. Default install location is assumed.
 
-### [TestDriven.Net](http://testdriven.net) 4.1 RTM ([download](http://testdriven.net/download.aspx))
+# [TestDriven.Net](http://testdriven.net) 4.1 RTM
             
 - [TDI104](https://github.com/jcansdale/TestDriven.Net-Issues/issues/104): TestDriven.Net doesn't appear in Visual Studio 2017 / 15.3
 devenv /updateconfiguration no longer updates Visual Studio's state on first launch. This exposed an issue with TestDriven.Net's installer.
 	      
-### [TestDriven.Net](http://testdriven.net) 4.1 Alpha ([download](http://testdriven.net/download.aspx))
+# [TestDriven.Net](http://testdriven.net) 4.1 Alpha
     
 - [TDI90](https://github.com/jcansdale/TestDriven.Net-Issues/issues/90): Add 'Test With &gt; In Proc (VS SDK)' for spelunking Visual Studio services and MEF exports
 Target methods can define any number of service interfaces and MEF [Import/ImportMany] parameters. More information [here](https://github.com/jcansdale/TestDriven.Net-Issues/issues/90).
 	      
-### [TestDriven.Net](http://testdriven.net) 4.0 RTM ([download](http://testdriven.net/download.aspx))
+# [TestDriven.Net](http://testdriven.net) 4.0 RTM
 
 - [TDI88](https://github.com/jcansdale/TestDriven.Net-Issues/issues/88): Please re-introduce "Navigate to test or code"
 Add a keyboard shortcut to the 'TestDriven.NET.GoToTestOrCode' command to execute the 'Go To Code/Test' functionality (it's no longer on the code context menu).
@@ -36,7 +36,7 @@ Add a keyboard shortcut to the 'TestDriven.NET.GoToTestOrCode' command to execut
 - [TDI92](https://github.com/jcansdale/TestDriven.Net-Issues/issues/92): Remove support for legacy project.json/.NET Core projects
 .NET Core isn't currently supported. I'll revisit this when .NET Core 2.0 is released.
   
-### [TestDriven.Net](http://testdriven.net) 4.0 Beta 3 ([download](http://testdriven.net/download.aspx))
+# [TestDriven.Net](http://testdriven.net) 4.0 Beta 3
 
 - [TDI76](https://github.com/jcansdale/TestDriven.Net-Issues/issues/76): Add support for Visual Studio 2017 RC
 TestDriven.Net will be installed for Visual Studio 2017 RC (Community, Professional and Enterprise in their default locations).
@@ -60,7 +60,7 @@ Update installer to include latest version of NUnit.
 Restore option to test using the old NUnit 2.5.10 GUI from project context menu.
 
 
-### [TestDriven.Net](http://testdriven.net) 4.0 Beta 2 ([download](http://testdriven.net/download.aspx))
+# [TestDriven.Net](http://testdriven.net) 4.0 Beta 2
 
 - [TDI59](https://github.com/jcansdale/TestDriven.Net-Issues/issues/59): Add support for running "Ad hoc" async methods
 Async methods can be targeted directly and the "Ad hoc" runner will wait for them to complete (the async method mustn't return void).
