@@ -1,3 +1,18 @@
+### [TestDriven.Net](http://testdriven.net) 4.3 Beta ([download](http://testdriven.net/download.aspx))
+
+# Enhancements
+- #98 Allow .NET Standard ad-hoc methods to be executed using .NET Framework
+- #115 Honor default parameters when executing ad-hoc test methods
+- #107 Update to initialize TestDriven.Net asynchronously
+- #120 Add IgnorePortablePDBsInStackTraces in .config files
+- #108 Find a way to execute VS 2015 MSTest projects in VS 2017
+
+# Fixes
+- #122 Can't run tests in SDK style F# projects
+- #121 Full paths appear in SDK style project stack traces (not short project relative paths)
+- #113 Windows Defender started flagging installer
+- #110 [STAThread] async Task hangs when executed with Test With > In-Proc (VS SDK)
+
 ### [TestDriven.Net](http://testdriven.net) 4.2 Beta ([download](http://testdriven.net/download.aspx))
            
 - [TDI105](https://github.com/jcansdale/TestDriven.Net-Issues/issues/105): Add support for Visual Studio 2017 Preview Editions
