@@ -1,20 +1,20 @@
-### Release Notes - TestDriven.NET: 4.2 Beta
+### [TestDriven.Net](http://testdriven.net) 4.2 Beta ([download](http://testdriven.net/download.aspx))
            
 - [TDI105](https://github.com/jcansdale/TestDriven.Net-Issues/issues/105): Add support for Visual Studio 2017 Preview Editions
 Preview versions can be installed side by side with regular versions. Default install location is assumed.
 
-### Release Notes - TestDriven.NET: 4.1 RTM
+### [TestDriven.Net](http://testdriven.net) 4.1 RTM ([download](http://testdriven.net/download.aspx))
             
 - [TDI104](https://github.com/jcansdale/TestDriven.Net-Issues/issues/104): TestDriven.Net doesn't appear in Visual Studio 2017 / 15.3
 devenv /updateconfiguration no longer updates Visual Studio's state on first launch. This exposed an issue with TestDriven.Net's installer.
 	      
-### Release Notes - TestDriven.NET: 4.1 Alpha
+### [TestDriven.Net](http://testdriven.net) 4.1 Alpha ([download](http://testdriven.net/download.aspx))
     
 - [TDI90](https://github.com/jcansdale/TestDriven.Net-Issues/issues/90): Add 'Test With &gt; In Proc (VS SDK)' for spelunking Visual Studio services and MEF exports
 Target methods can define any number of service interfaces and MEF [Import/ImportMany] parameters. More information [here](https://github.com/jcansdale/TestDriven.Net-Issues/issues/90).
 	      
-### Release Notes - TestDriven.NET: 4.0 RTM
-    
+### [TestDriven.Net](http://testdriven.net) 4.0 RTM ([download](http://testdriven.net/download.aspx))
+
 - [TDI88](https://github.com/jcansdale/TestDriven.Net-Issues/issues/88): Please re-introduce "Navigate to test or code"
 Add a keyboard shortcut to the 'TestDriven.NET.GoToTestOrCode' command to execute the 'Go To Code/Test' functionality (it's no longer on the code context menu).
     
