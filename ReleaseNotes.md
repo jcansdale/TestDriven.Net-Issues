@@ -1,17 +1,17 @@
 # [TestDriven.Net](http://testdriven.net) 4.3 Beta
 
 ## Enhancements
-- #98 Allow .NET Standard ad-hoc methods to be executed using .NET Framework
-- #115 Honor default parameters when executing ad-hoc test methods
-- #107 Update to initialize TestDriven.Net asynchronously
-- #120 Add IgnorePortablePDBsInStackTraces in .config files
-- #108 Find a way to execute VS 2015 MSTest projects in VS 2017
+- [#98](https://github.com/jcansdale/TestDriven.Net-Issues/issues/98) Allow .NET Standard ad-hoc methods to be executed using .NET Framework
+- [#115](https://github.com/jcansdale/TestDriven.Net-Issues/issues/115) Honor default parameters when executing ad-hoc test methods
+- [#107](https://github.com/jcansdale/TestDriven.Net-Issues/issues/107) Update to initialize TestDriven.Net asynchronously
+- [#120](https://github.com/jcansdale/TestDriven.Net-Issues/issues/120)Add IgnorePortablePDBsInStackTraces in .config files
+- [#108](https://github.com/jcansdale/TestDriven.Net-Issues/issues/108)Find a way to execute VS 2015 MSTest projects in VS 2017
 
 ## Fixes
-- #122 Can't run tests in SDK style F# projects
-- #121 Full paths appear in SDK style project stack traces (not short project relative paths)
-- #113 Windows Defender started flagging installer
-- #110 [STAThread] async Task hangs when executed with Test With > In-Proc (VS SDK)
+- [#122](https://github.com/jcansdale/TestDriven.Net-Issues/issues/122) Can't run tests in SDK style F# projects
+- [#121](https://github.com/jcansdale/TestDriven.Net-Issues/issues/121) Full paths appear in SDK style project stack traces (not short project relative paths)
+- [#113](https://github.com/jcansdale/TestDriven.Net-Issues/issues/113) Windows Defender started flagging installer
+- [#110](https://github.com/jcansdale/TestDriven.Net-Issues/issues/110) [STAThread] async Task hangs when executed with Test With > In-Proc (VS SDK)
 
 # [TestDriven.Net](http://testdriven.net) 4.2 Beta
            
