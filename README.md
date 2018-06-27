@@ -1,6 +1,6 @@
 # TestDriven.Net
 
-Download the latest [release](http://testdriven.net) or report an [issue](https://github.com/jcansdale/TestDriven.Net-Issues/issues).
+Download the latest [release](https://testdriven.net) or report an [issue](https://github.com/jcansdale/TestDriven.Net-Issues/issues).
 
 ## 4.3 Beta
 
