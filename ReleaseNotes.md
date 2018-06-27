@@ -233,9 +233,9 @@
 	<div class="FogBugzReleaseNotes"> 
 		<h1>Release Notes - TestDriven.NET: 3.9 RTM</h1>
 		
-		<h2>9547: Add support for options pane in VS 2015</h2> <p>General options are now available in VS 2015 under ‘Tools &gt; Options… &gt; TestDriven.Net’.</p>
+		<h2>9547: Add support for options pane in VS 2015</h2> <p>General options are now available in VS 2015 under Â‘Tools &gt; OptionsÂ… &gt; TestDriven.NetÂ’.</p>
 
-    <h2>9546: Suggest using 'NUnitTDNet' NuGet package when tests reference NUnit 3.0</h2> <p>Give suggestions when referencing a version of 'nunit.framework' that isn’t included with installer.</p>
+    <h2>9546: Suggest using 'NUnitTDNet' NuGet package when tests reference NUnit 3.0</h2> <p>Give suggestions when referencing a version of 'nunit.framework' that isnÂ’t included with installer.</p>
 		
     <h2>9545: Remove NUnit 3.0 beta 2 from installer</h2> <p>Ready to release TestDriven.NET 3.9 RTM, but can't release it with Beta version of NUnit.</p>
 	</div>
@@ -243,9 +243,9 @@
 	<div class="FogBugzReleaseNotes"> 
 		<h1>Release Notes - TestDriven.NET: 3.9 Beta 3</h1>
 		
-    <h2>9543: Add support for NUnit 3.0 beta 2/3</h2> <p>Tests that reference ‘nunit.framework’ 3.0 beta 2/3 can be executed with this version. Future versions of NUnit 3.0 might be compatible with this release (depending on interface changes).</p>
+    <h2>9543: Add support for NUnit 3.0 beta 2/3</h2> <p>Tests that reference Â‘nunit.frameworkÂ’ 3.0 beta 2/3 can be executed with this version. Future versions of NUnit 3.0 might be compatible with this release (depending on interface changes).</p>
     
-    <h2>9544: Add support for ‘Test With &gt; Performance’ in Visual Studio Enterprise 2015</h2> <p>This is an easy way to do performance profiling if you’re using an Enterprise version of Visual Studio.</p>
+    <h2>9544: Add support for Â‘Test With &gt; PerformanceÂ’ in Visual Studio Enterprise 2015</h2> <p>This is an easy way to do performance profiling if youÂ’re using an Enterprise version of Visual Studio.</p>
 	</div>
 
 	<div class="FogBugzReleaseNotes"> 
@@ -255,34 +255,34 @@
     
     <h2>9540: Unknown .NET Framework Version: v4.6</h2> <p>Removed warning message when targeting .NET v4.5.2 and later.</p>
 
-    <h2>9541: Ignored tests not visible on ‘Task List’ when using VS 2015</h2> <p>Display ignored tests on ‘Error List / Messages’ when using VS 2015.</p>
+    <h2>9541: Ignored tests not visible on Â‘Task ListÂ’ when using VS 2015</h2> <p>Display ignored tests on Â‘Error List / MessagesÂ’ when using VS 2015.</p>
 
-    <h2>9542: Can’t jump to ignored tests that take parameters</h2> <p>Allow double clicking on ‘Task List’ / ‘Error List’ for tests that take parameters.</p>
+    <h2>9542: CanÂ’t jump to ignored tests that take parameters</h2> <p>Allow double clicking on Â‘Task ListÂ’ / Â‘Error ListÂ’ for tests that take parameters.</p>
 	</div>
 
 	<div class="FogBugzReleaseNotes"> 
 		<h1>Release Notes - TestDriven.NET: 3.9 Beta</h1>
 		
-		<h2>9538: Test run sometimes aborts when project properties are on tab list (VS 2015 RC)</h2> <p>Added workaround for bug in VS 2015 RC when project properties haven’t been activated yet.</p>
+		<h2>9538: Test run sometimes aborts when project properties are on tab list (VS 2015 RC)</h2> <p>Added workaround for bug in VS 2015 RC when project properties havenÂ’t been activated yet.</p>
 		
-		<h2>9536: Can’t target F# tests that take parameters</h2> <p>Added support for F# tests that take parameters (test must have unique name).</p>
+		<h2>9536: CanÂ’t target F# tests that take parameters</h2> <p>Added support for F# tests that take parameters (test must have unique name).</p>
 		
-		<h2>9537: F# projects don’t always build before test on VS 2015 RC</h2> <p>Added workaround for issue in VS 2015 RC. This should be fixed in VS 2015 RTM.</p>
+		<h2>9537: F# projects donÂ’t always build before test on VS 2015 RC</h2> <p>Added workaround for issue in VS 2015 RC. This should be fixed in VS 2015 RTM.</p>
 	</div>
 	      
 	      
 	<div class="FogBugzReleaseNotes"> 
 		<h1>Release Notes - TestDriven.NET: 3.8 RTM</h1>
 		
-		<h2>9535: Clean up security warnings during installation</h2> <p>TestDriven.Net’s setup and installer files are now signed with Mutant Design’s code signing key.</p>
+		<h2>9535: Clean up security warnings during installation</h2> <p>TestDriven.NetÂ’s setup and installer files are now signed with Mutant DesignÂ’s code signing key.</p>
 	</div>
 	      
 	<div class="FogBugzReleaseNotes"> 
 		<h1>Release Notes - TestDriven.NET: 3.8 Beta 2</h1>
 
-		<h2>9533: Add support for ‘Test With &gt; Coverage’ in Visual Studio 2015</h2> <p>Coverage wasn’t working in Visual Studio 2015.</p>
+		<h2>9533: Add support for Â‘Test With &gt; CoverageÂ’ in Visual Studio 2015</h2> <p>Coverage wasnÂ’t working in Visual Studio 2015.</p>
 
-		<h2>9532: Warnings not visible when ‘Task List’ is activated</h2> <p>When ‘Lask List’ is automatically activated, the ‘Add-ins’ category will now be selected. If user navigates to ‘Lask List’, this category may need to be manually selected.</p>
+		<h2>9532: Warnings not visible when Â‘Task ListÂ’ is activated</h2> <p>When Â‘Lask ListÂ’ is automatically activated, the Â‘Add-insÂ’ category will now be selected. If user navigates to Â‘Lask ListÂ’, this category may need to be manually selected.</p>
 
 		<h2>9534: Add support for NUnit 2.6.4</h2> <p>This version of NUnit will warn rather than attempt to execute tests built with future NUnit 3.x versions.</p>
 	</div>
@@ -294,21 +294,21 @@
 
 		<h2>9531: Add support for VS 14 version of MSTest</h2> <p>Install test runner adapter that is compatible with the VS 14 version of MSTest.</p>
 		
-		<h2>9529: Ignored tests keep being added to ‘Task List’ on each test run</h2> <p>Fixed bug where ignored tests weren’t being deleted from ‘Task List’ before test run in Visual Studio 2012+.</p>
+		<h2>9529: Ignored tests keep being added to Â‘Task ListÂ’ on each test run</h2> <p>Fixed bug where ignored tests werenÂ’t being deleted from Â‘Task ListÂ’ before test run in Visual Studio 2012+.</p>
 
-		<h2>9530: A resource leak has been shown to occur when adding test warnings to ‘Task List’</h2> <p>Reduce this by limiting the number of warnings that can be added to ‘Task List’ in a single test run.</p>
+		<h2>9530: A resource leak has been shown to occur when adding test warnings to Â‘Task ListÂ’</h2> <p>Reduce this by limiting the number of warnings that can be added to Â‘Task ListÂ’ in a single test run.</p>
 	</div> 
 
 	<div class="FogBugzReleaseNotes"> 
 		<h1>Release Notes - TestDriven.NET: 3.7 Beta</h1>
 
-		<h2>9524: Non-admin user can’t test with coverage when solution contains any signed assemblies</h2> <p>Allow non-admin users to test with coverage on any unsigned assemblies in solution.</p>
+		<h2>9524: Non-admin user canÂ’t test with coverage when solution contains any signed assemblies</h2> <p>Allow non-admin users to test with coverage on any unsigned assemblies in solution.</p>
 
 		<h2>9525: Unknown .NET Framework Version: v4.5.1</h2> <p>Fixed warning when executing tests compiled with .NET v4.5.1.</p>
 
-		<h2>9526: Build sometimes shows output window ‘Test’ instead of ‘Build’</h2> <p>This would happen the first time a solution was built before running any tests.</p>
+		<h2>9526: Build sometimes shows output window Â‘TestÂ’ instead of Â‘BuildÂ’</h2> <p>This would happen the first time a solution was built before running any tests.</p>
 
-		<h2>9527: TestDriven.Net version number not shown on ‘Add-in Manager’ or Visual Studio ‘About’ window</h2> <p>This was an issue in Visual Studio 2012 and 2013.</p>
+		<h2>9527: TestDriven.Net version number not shown on Â‘Add-in ManagerÂ’ or Visual Studio Â‘AboutÂ’ window</h2> <p>This was an issue in Visual Studio 2012 and 2013.</p>
 	</div> 
 
 	<div class="FogBugzReleaseNotes"> 
@@ -338,7 +338,7 @@
 	<div class="FogBugzReleaseNotes"> 
 		<h1>Release Notes - TestDriven.NET: 3.5 RC 2</h1>
 
-		<h2>9519 - TestDriven.Net doesn’t show up when installed for all users on VS 2012 and 2013</h2> <p>Add-in now installed for all users, not just current user.</p>
+		<h2>9519 - TestDriven.Net doesnÂ’t show up when installed for all users on VS 2012 and 2013</h2> <p>Add-in now installed for all users, not just current user.</p>
 		
 		<h2>9520 - Visual Studio crashes when testing solution that contains WiX setup project</h2> <p>WiX project extension causes Visual Studio to quit when interacting with the WiX project model. Added workaround to avoid this.<p>
 	</div> 
@@ -370,18 +370,18 @@
 	<div class="FogBugzReleaseNotes"> 
 		<h1>Release Notes - TestDriven.NET: 3.5 Beta 1</h1>
 
-		<h2>9512: ‘Test With &gt; Performance’ not working on 2012</h2> <p>Fixed .NET profiler environment variables when using VS2012.</p>
+		<h2>9512: Â‘Test With &gt; PerformanceÂ’ not working on 2012</h2> <p>Fixed .NET profiler environment variables when using VS2012.</p>
 
-		<h2>9511: Add support for ‘Should’ naming convention with ‘Go To Test/Code’</h2> <p>Jumping between 'Target.cs' and 'TargetShould.cs' test file naming convention now supported.</p>
+		<h2>9511: Add support for Â‘ShouldÂ’ naming convention with Â‘Go To Test/CodeÂ’</h2> <p>Jumping between 'Target.cs' and 'TargetShould.cs' test file naming convention now supported.</p>
 		
-		<h2>9510: Tests won’t run in MSTest when directory contains a ‘#’</h2> <p>Fixed issue when solution directory conatained a '#'.</p>
+		<h2>9510: Tests wonÂ’t run in MSTest when directory contains a Â‘#Â’</h2> <p>Fixed issue when solution directory conatained a '#'.</p>
 	</div> 
 
 
 	<div class="FogBugzReleaseNotes"> 
 		<h1>Release Notes - TestDriven.NET: 3.4 RTM</h1>
 		
-		<h2>9508: Add support for running all tests in current solution</h2> <p>There’s a new command called ‘TestDriven.NET.RunAllTestsInSolution’. Bind this to a keyboard shortcut to execute all tests in the current solution.</p>
+		<h2>9508: Add support for running all tests in current solution</h2> <p>ThereÂ’s a new command called Â‘TestDriven.NET.RunAllTestsInSolutionÂ’. Bind this to a keyboard shortcut to execute all tests in the current solution.</p>
 		
 		<h2>9509: Add support for MSTest when only Visual Studio 2012 is installed</h2> <p>There was an issue running tests in VS 2012 when VS 2012 wasn't also installed.</p>
 	</div> 
@@ -391,11 +391,11 @@
 		
 		<h2>9506: Add support for NUnit 2.6.1</h2> <p>This version now includes the latest stable NUnit release.</p>
 
-		<h2>9504: Add support for Reflector 6.8</h2> <p>Reflector 6.8 is the last free version of Reflector that all older versions will be upgraded to. Register the location of your ‘Reflector.exe’ using ‘Tools &gt; Options... &gt; TestDriven.Net &gt; Reflector’.</p>
+		<h2>9504: Add support for Reflector 6.8</h2> <p>Reflector 6.8 is the last free version of Reflector that all older versions will be upgraded to. Register the location of your Â‘Reflector.exeÂ’ using Â‘Tools &gt; Options... &gt; TestDriven.Net &gt; ReflectorÂ’.</p>
 		
 		<h2>9507: 'Test With &gt; Coverage' doesn't work if only VS 2012 is installed</h2> <p>The location of the .NET tools changed in the latest WinSDK. Coverage will now work in VS 2012.</p>
 		
-		<h2>9505: Fix issue with German stack traces</h2> <p>This fixes an issue where stack traces aren’t double clickable when Visual Studio is internationalized into English but the test process is German.</p>
+		<h2>9505: Fix issue with German stack traces</h2> <p>This fixes an issue where stack traces arenÂ’t double clickable when Visual Studio is internationalized into English but the test process is German.</p>
 	</div> 
 	      
 	<div class="FogBugzReleaseNotes"> 
@@ -409,7 +409,7 @@
 
 		<h2>9501: Add support for VS 2012 RC</h2> <p>This version has been tested with Visual Studio 2012 RC</p>
 		
-		<h2>9500: Can’t run MSTests when VS 11 Beta is installed.</h2> <p>In VS 11 Beta the directory that contains MSTest public assemblies was changed. This stopped MSTest support from working in VS 2010 as well as VS 11 Beta. This has now been fixed.</p>
+		<h2>9500: CanÂ’t run MSTests when VS 11 Beta is installed.</h2> <p>In VS 11 Beta the directory that contains MSTest public assemblies was changed. This stopped MSTest support from working in VS 2010 as well as VS 11 Beta. This has now been fixed.</p>
 		
 		<h2>9502: 'Test With > Silverlight' has been deprecated in this version.</h2> <p>If you still use this feature, you can re-enable it by editing the 'TestDriven.dll.config' file (see comments)</p>
 	</div> 
@@ -903,7 +903,7 @@
 	   <div class="FogBugzReleaseNotes">
 			 <h1>Release Notes - TestDriven.NET: 2.12</h1> 
 			
-					 <h2>1197: Treat “do not build” as “do not test”</h2> <p>When running all tests in a solution, honor the 'Build' check box in the 'Configuration Manager'.</p> 
+					 <h2>1197: Treat Â“do not buildÂ” as Â“do not testÂ”</h2> <p>When running all tests in a solution, honor the 'Build' check box in the 'Configuration Manager'.</p> 
 					
 					 <h2>1198: Workaround for C++ assemblies remaining locked</h2> <p>There
 appears to be a bug when mixed managed/unmanaged C++ assemblies are
