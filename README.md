@@ -1,6 +1,8 @@
 # TestDriven.Net
 
-Latest [release](http://testdriven.net).
+Download the latest [release](http://testdriven.net).
+
+![TestDriven.Net Alien](http://testdriven.net/images/r_alien.gif)
 
 ## 4.3 Beta
 
