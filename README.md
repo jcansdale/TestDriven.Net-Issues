@@ -2,8 +2,6 @@
 
 Download the latest [release](http://testdriven.net).
 
-![TestDriven.Net Alien](http://testdriven.net/images/r_alien.gif)
-
 ## 4.3 Beta
 
 ### Enhancements
@@ -1856,3 +1854,5 @@ Fixed issue where test project dependencies were not being compiled before test 
 ### 289: Test Failure Messages not removed from ErrorList on Build
 
 Clear test failures from error list before building for next test run.
+
+![TestDriven.Net Alien](http://testdriven.net/images/r_alien.gif)
