@@ -104,27 +104,27 @@ This command was rarely being used and taking up valuable space on the context m
 
 ## 4.0 Beta
 
-### TDI#[21](https://github.com/jcansdale/TestDriven.Net-Issues/issues/21): Add 'Test With > .NET' and 'Test With > .NET Core' commands
+- TDI#[21](https://github.com/jcansdale/TestDriven.Net-Issues/issues/21): Add 'Test With > .NET' and 'Test With > .NET Core' commands
 
-### TDI#[40](https://github.com/jcansdale/TestDriven.Net-Issues/issues/40): Add support for .NET Framework / .xproj based projects that use `ITestRunner` interface
+- TDI#[40](https://github.com/jcansdale/TestDriven.Net-Issues/issues/40): Add support for .NET Framework / .xproj based projects that use `ITestRunner` interface
 
-### TDI#[36](https://github.com/jcansdale/TestDriven.Net-Issues/issues/36): Add support for App.config when running .xproj / .NET Framework tests
+- TDI#[36](https://github.com/jcansdale/TestDriven.Net-Issues/issues/36): Add support for App.config when running .xproj / .NET Framework tests
 
-### TDI#[14](https://github.com/jcansdale/TestDriven.Net-Issues/issues/14): Add support for running "Ad hoc" test methods in .NET Core Class Library projects
+- TDI#[14](https://github.com/jcansdale/TestDriven.Net-Issues/issues/14): Add support for running "Ad hoc" test methods in .NET Core Class Library projects
 
-### TDI#[27](https://github.com/jcansdale/TestDriven.Net-Issues/issues/27): Add support for targeting .NET Framework .xproj 'Library' projects
+- TDI#[27](https://github.com/jcansdale/TestDriven.Net-Issues/issues/27): Add support for targeting .NET Framework .xproj 'Library' projects
 
-### TDI#[23](https://github.com/jcansdale/TestDriven.Net-Issues/issues/23): TestDriven.Net tries to run tests in .NET Core projects that don't contain tests
+- TDI#[23](https://github.com/jcansdale/TestDriven.Net-Issues/issues/23): TestDriven.Net tries to run tests in .NET Core projects that don't contain tests
 
-### TDI#[18](https://github.com/jcansdale/TestDriven.Net-Issues/issues/18): .NET Core test runner should honor the NUGET_PACKAGES environment variable
+- TDI#[18](https://github.com/jcansdale/TestDriven.Net-Issues/issues/18): .NET Core test runner should honor the NUGET_PACKAGES environment variable
 
-### TDI#[7](https://github.com/jcansdale/TestDriven.Net-Issues/issues/7): Can't resolve some assemblies when targeting .NET Core 'Class Library' projects
+- TDI#[7](https://github.com/jcansdale/TestDriven.Net-Issues/issues/7): Can't resolve some assemblies when targeting .NET Core 'Class Library' projects
 
-### TDI#[33](https://github.com/jcansdale/TestDriven.Net-Issues/issues/33): Skip .xproj / project.json style projects that don't contain any tests
+- TDI#[33](https://github.com/jcansdale/TestDriven.Net-Issues/issues/33): Skip .xproj / project.json style projects that don't contain any tests
 
-### TDI#[34](https://github.com/jcansdale/TestDriven.Net-Issues/issues/34): Can't find .xproj assembly when project name is different to folder name
+- TDI#[34](https://github.com/jcansdale/TestDriven.Net-Issues/issues/34): Can't find .xproj assembly when project name is different to folder name
 
-### TDI#[37](https://github.com/jcansdale/TestDriven.Net-Issues/issues/37): Look for DLLs in RID directory, not just EXEs
+- TDI#[37](https://github.com/jcansdale/TestDriven.Net-Issues/issues/37): Look for DLLs in RID directory, not just EXEs
 
 
 ## 4.0 Alpha
