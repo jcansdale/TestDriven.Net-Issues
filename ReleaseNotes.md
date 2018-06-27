@@ -1,15 +1,4 @@
-<html><head><title>TestDriven.NET - Release Notes</title>
-		      
-	      <style>
-				<!--
-				.FogBugzReleaseNotes     { font-family: Verdana,Arial,sans-serif }
-				.FogBugzReleaseNotes h1  { border-bottom: 1px solid #449; font-size: 1.2em; color: #449; }
-				.FogBugzReleaseNotes h2  { font-size: 1em; }
-				.FogBugzReleaseNotes p   { font-family: Georgia,'Times New Roman',serif; margin-left: 0.5in; font-size: 0.9em; }
-				.FogBugzFooter           { font-size: 10px; text-align:center }
-				-->
-	      </style></head><body>
-	      
+   
 	<div class="FogBugzReleaseNotes"> 
     <h1>Release Notes - TestDriven.NET: 4.2 Beta</h1>
             
@@ -1532,6 +1521,3 @@ was part of the solution.</p>
 								<p>Clear test failures from error list before building for next test run.</p>
 							</div>	
 						
-		
-		
-	    </body></html>
