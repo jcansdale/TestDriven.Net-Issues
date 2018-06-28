@@ -2,7 +2,7 @@
 
 Download the latest [release](https://testdriven.net) or report an [issue](https://github.com/jcansdale/TestDriven.Net-Issues/issues).
 
-![Follow Jamie Cansdale](https://img.shields.io/twitter/follow/jcansdale.svg?style=social)
+[![Tweet Jamie Cansdale](https://img.shields.io/twitter/follow/jcansdale.svg?style=social "Follow Jamie Cansdale")](https://twitter.com/jcansdale)
 
 ## 4.3 Beta
 
