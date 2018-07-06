@@ -1,8 +1,10 @@
 # TestDriven.Net
 
+## Installers
+
 You now have a choice of installers for TestDriven.Net
 
-## TestDriven VSIX
+### TestDriven VSIX
 
 - Works with Visual Studio 2015 and 2017
 - Supports Nunit 3.x, xUnit, MSTest (not from NuGet) and Ad hoc tests
@@ -10,7 +12,7 @@ You now have a choice of installers for TestDriven.Net
 
 [Download from the VSIX Gallery](http://vsixgallery.com/extension/bca1b950-36b0-45ae-a30a-2c12aeec3b2a/)
 
-## TestDriven MSI
+### TestDriven MSI
 
 - Works with Visual Studio 2010-2017
 - Supports Nunit 2.2, 2.4, 2.5, 2.6 and 3.x
@@ -20,7 +22,7 @@ You now have a choice of installers for TestDriven.Net
 
 Please report [issues](https://github.com/jcansdale/TestDriven.Net-Issues/issues) or [tweet](https://twitter.com/jcansdale) me.
 
-[![Tweet Jamie Cansdale](https://img.shields.io/twitter/follow/jcansdale.svg?style=social "Follow Jamie Cansdale")](https://twitter.com/jcansdale)
+## Change log
 
 ## 4.3 Beta
 
@@ -1875,5 +1877,7 @@ Fixed issue where test project dependencies were not being compiled before test 
 ### 289: Test Failure Messages not removed from ErrorList on Build
 
 Clear test failures from error list before building for next test run.
+
+[![Tweet Jamie Cansdale](https://img.shields.io/twitter/follow/jcansdale.svg?style=social "Follow Jamie Cansdale")](https://twitter.com/jcansdale)
 
 ![TestDriven.Net Alien](http://testdriven.net/images/r_alien.gif)
