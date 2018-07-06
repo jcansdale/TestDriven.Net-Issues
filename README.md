@@ -20,7 +20,9 @@ You now have a choice of installers for TestDriven.Net
 
 [Download from the website](http://testdriven.net/download.aspx)
 
-Please report [issues](https://github.com/jcansdale/TestDriven.Net-Issues/issues) or [tweet](https://twitter.com/jcansdale) me.
+### Notice anything strange?
+
+Please report [issues](https://github.com/jcansdale/TestDriven.Net-Issues/issues) or [tweet](https://twitter.com/jcansdale) me!
 
 ## Change log
 
