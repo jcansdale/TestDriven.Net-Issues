@@ -7,6 +7,8 @@ Download the latest [release](https://testdriven.net) or report an [issue](https
 ## 4.3 Beta
 
 ### Enhancements
+- [#109](https://github.com/jcansdale/TestDriven.Net-Issues/issues/98) Create a pure VSIX version of TestDriven.Net
+This can be found on the Vsix Gallery [here](http://vsixgallery.com/extension/bca1b950-36b0-45ae-a30a-2c12aeec3b2a/)
 - [#98](https://github.com/jcansdale/TestDriven.Net-Issues/issues/98) Allow .NET Standard ad-hoc methods to be executed using .NET Framework
 - [#115](https://github.com/jcansdale/TestDriven.Net-Issues/issues/115) Honor default parameters when executing ad-hoc test methods
 - [#107](https://github.com/jcansdale/TestDriven.Net-Issues/issues/107) Update to initialize TestDriven.Net asynchronously
