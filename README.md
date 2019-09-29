@@ -25,6 +25,13 @@ You now have a choice of installers for TestDriven.Net
 Please report [issues](https://github.com/jcansdale/TestDriven.Net-Issues/issues) or [tweet](https://twitter.com/jcansdale) me!
 
 ## Change log
+## 5.0 RTW
+
+### Enhancements
+
+- Works with Visual Studio 2015 to 2019
+- Add support for running ad hoc test methods on .NET Core applications
+- Honors the framework selection drop down (works .NET 3.5, .NET 4.x and all .NET Core versions)
 
 ## 4.3 Beta
 
