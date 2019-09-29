@@ -32,7 +32,7 @@ Please report [issues](https://github.com/jcansdale/TestDriven.Net-Issues/issues
 - [#141](https://github.com/jcansdale/TestDriven.Net-Issues/issues/141) Works with Visual Studio 2015 to 2019
 - [#106](https://github.com/jcansdale/TestDriven.Net-Issues/issues/106) Add support for running ad hoc test methods on .NET Core applications
 - [#150](https://github.com/jcansdale/TestDriven.Net-Issues/issues/150) Honors the framework selection drop down (works .NET 3.5, .NET 4.x and all .NET Core versions)
-- [#132](https://github.com/jcansdale/TestDriven.Net-Issues/issues/132) Add support for prototyping Visual Studio SDK MEF components (use `Test With > Ad hoc (VS SDK)` on method in MEF component).
+- [#132](https://github.com/jcansdale/TestDriven.Net-Issues/issues/132) Execute ad hoc methods on VS SDK MEF components (use `Test With > Ad hoc (VS SDK)` on method in MEF component).
 
 ## 4.3 Beta
 
