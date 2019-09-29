@@ -6,11 +6,11 @@ You now have a choice of installers for TestDriven.Net
 
 ### TestDriven VSIX
 
-- Works with Visual Studio 2015 and 2017
+- Works with Visual Studio 2015 and later (up to 2019 at time of writing)
 - Supports Nunit 3.x, xUnit, MSTest (not from NuGet) and Ad hoc tests
 - Auto updates itself
 
-[Download from the VSIX Gallery](http://vsixgallery.com/extension/bca1b950-36b0-45ae-a30a-2c12aeec3b2a/)
+[Download from Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=JamieCansdale.TestDrivenNet)
 
 ### TestDriven MSI
 
