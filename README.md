@@ -1,8 +1,8 @@
-# TestDriven.Net
+# TestDriven.NET
 
 ## Installers
 
-You now have a choice of installers for TestDriven.Net
+You now have a choice of installers for TestDriven.NET
 
 ### TestDriven VSIX
 
