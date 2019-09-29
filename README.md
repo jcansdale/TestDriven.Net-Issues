@@ -29,9 +29,9 @@ Please report [issues](https://github.com/jcansdale/TestDriven.Net-Issues/issues
 
 ### Enhancements
 
-- Works with Visual Studio 2015 to 2019
-- Add support for running ad hoc test methods on .NET Core applications
-- Honors the framework selection drop down (works .NET 3.5, .NET 4.x and all .NET Core versions)
+- [#141](https://github.com/jcansdale/TestDriven.Net-Issues/issues/141) Works with Visual Studio 2015 to 2019
+- [#106](https://github.com/jcansdale/TestDriven.Net-Issues/issues/106) Add support for running ad hoc test methods on .NET Core applications
+- [#150](https://github.com/jcansdale/TestDriven.Net-Issues/issues/150) Honors the framework selection drop down (works .NET 3.5, .NET 4.x and all .NET Core versions)
 
 ## 4.3 Beta
 
